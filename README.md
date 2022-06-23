@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qwerwanghao
 - 👀 I’m interested in OnePiece
-- 🌱 I’m currently learning Lua and Unity
+- 🌱 I’m currently learning develop game engine and computer graphics
 - 💞️ I’m looking to collaborate on fun things
 - 📫 How to reach me add QQ:1260877452
 
